@@ -1,0 +1,10 @@
+torch==1.12.1
+seaborn
+pandas
+wordcloud
+datasets
+demoji
+google-cloud-translate==2.0.1
+hdbscan
+sentence-transformers
+jupyterlab
