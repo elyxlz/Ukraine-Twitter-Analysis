@@ -3,5 +3,3 @@
 *.json
 /.ipynb_checkpoints
 *checkpoints
-*.ipynb
-/Plots
