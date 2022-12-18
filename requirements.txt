@@ -8,3 +8,5 @@ google-cloud-translate==2.0.1
 hdbscan
 sentence-transformers
 jupyterlab
+plotly
+umap-learn[parametric_umap]
